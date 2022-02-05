@@ -65,24 +65,130 @@ You will never need your cellphone during class, unless it is used in a composit
 
 You must attend these six events during semester, including four events with MIT artists-in-residence [Either/Or](http://www.eitherormusic.org/). If you are unable to attend any of them due to a scheduling conflict, then we will find substitute events for you to go to. You must let me know by the beginning of the second week of class if you cannot attend any of these events.
 
-| WEEKS | EVENTS |
-| --- | --- |
-| 2 | Forum with Either/Or: the music of Alvin Lucier |
-| 2 | Concert by Either/Or: the music of Alvin Lucier |
-| 5 | Forum with Charles Shadle |
-| 9 | Forum with Either/Or: the music of Keeril Makan |
-| 9 | Concert by Either/Or: the music of Keeril Makan |
-| 13 | Forum with Florian Hollerweger 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEKS
+{{< thclose >}}
+{{< thopen >}}
+EVENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Forum with Either/Or: the music of Alvin Lucier
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Concert by Either/Or: the music of Alvin Lucier
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Forum with Charles Shadle
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Forum with Either/Or: the music of Keeril Makan
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Concert by Either/Or: the music of Keeril Makan
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Forum with Florian Hollerweger
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Composition assignments | 50 |
-| In-class participation | 20 |
-| Final project | 20 |
-| One-page responses to listening / reading | 10 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Composition assignments
+{{< tdclose >}}
+{{< tdopen >}}
+50
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class participation
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+One-page responses to listening / reading
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
@@ -93,39 +199,450 @@ L = Lecture
 F = Forum  
 C = Concert
 
-| SES | TOPICS | KEY DATES |
-| --- | --- | --- |
-| L1 | Introduction: silence, sound, music, and environment | Assignment 1 (silent day) out |
-| L2 | Soundwalks |  {{< br >}}{{< br >}} Assignment 1 (silent day) due {{< br >}}{{< br >}} Assignment 2 (soundwalk) out {{< br >}}{{< br >}}  |
-| L3 | Either/Or residency | Assignment 2 (soundwalk) due |
-| F1 | Forum with Either/Or | &nbsp; |
-| L3 | Alvin Lucier | &nbsp; |
-| C1 | Either/Or concert: Alvin Lucier | &nbsp; |
-| L4 | Notation: Visualizing music  {{< br >}}Earle Brown | Assignment 3 (visualizing music) out |
-| L5 | Review visualizing music assignment  {{< br >}}Text-sound |  {{< br >}}{{< br >}} Assignment 3 (visualizing music) due {{< br >}}{{< br >}} Assignment 4 (text-sound composition) out {{< br >}}{{< br >}}  |
-| L6 | Western notation | &nbsp; |
-| L7 | Choral music  {{< br >}}Text-sound performances | Assignment 4 (text-sound composition) due |
-| F2 | Forum with Charles Shadle: discussing _Western Saddlebag_, a newly composed suite of arrangements of traditional cowboy melodies for piano | &nbsp; |
-| L8 | Text-sound performances | &nbsp; |
-| L9 | Instrument building | Assignment 5 (instrumental building proposal) out |
-| L10 | Instrument building (cont.) |  {{< br >}}{{< br >}} Assignment 5 (instrumental building proposal) due {{< br >}}{{< br >}} Assignment 6 (SPEAR sounds) out; due 1 day later {{< br >}}{{< br >}}  |
-| L11 | Instrument building (cont.) | &nbsp; |
-| L12 | In class performances with your instruments | Assignment 7 (Audacity 1) out |
-| {{< td-colspan 3 >}}_Spring Break week – no classes_{{< /td-colspan >}} |||
-| L13 | Musique Concrète | Assignment 7 (Audacity 1) due |
-| L14 | Either/Or residency | Assignment 8 (tabula rasa) out |
-| F3 | Forum with Keeril Makan | &nbsp; |
-| C2 | [Either/Or concert: music of Keeril Makan](http://arts.mit.edu/experimental-music-eitheror-performs-work-of-keeril-makan/) | &nbsp; |
-| L15 | Tabula rasa assignment |  {{< br >}}{{< br >}} Assignment 8 (tabula rasa) due {{< br >}}{{< br >}} Assignment 9 (Audacity 2) out {{< br >}}{{< br >}}  |
-| L16 | Listen to and discuss tabula rasa compositions | &nbsp; |
-| L17 | Listen to and discuss tabula rasa compositions | &nbsp; |
-| L18 | Discuss Audacity 2 compositions; introduce final project | Assignment 9 (Audacity 2) due |
-| L19 | Listen to and discuss Audacity 2 compositions | Assignment 10 (Audacity 2 response) out; due 5 days later |
-| L20 | No lecture; individual meetings on project | Assignment 11 (final project draft) due |
-| F4 | Forum with Florian Hollerweger: "The Revolution is Hear! Sound Art, the Everyday, and Aural Awareness" | &nbsp; |
-| L21 | No lecture; individual meetings on project | &nbsp; |
-| L22 | Final project presentations | &nbsp; |
-| L23 | Final project presentations | Assignment 11 (final project) due |
-| C3 | Class attends [MIT CAST Sound Installations evening event](http://arts.mit.edu/resonating-mit-scanner-vitiello/) | &nbsp; |
-| L24 | Final project presentations | &nbsp; |
-| C4 | Either/Or concert |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: silence, sound, music, and environment
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 (silent day) out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+Soundwalks
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 1 (silent day) due
+
+Assignment 2 (soundwalk) out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Either/Or residency
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 (soundwalk) due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+F1
+{{< tdclose >}}
+{{< tdopen >}}
+Forum with Either/Or
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Alvin Lucier
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C1
+{{< tdclose >}}
+{{< tdopen >}}
+Either/Or concert: Alvin Lucier
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Notation: Visualizing music  
+Earle Brown
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 (visualizing music) out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Review visualizing music assignment  
+Text-sound
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 3 (visualizing music) due
+
+Assignment 4 (text-sound composition) out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Western notation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+Choral music  
+Text-sound performances
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 (text-sound composition) due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+F2
+{{< tdclose >}}
+{{< tdopen >}}
+Forum with Charles Shadle: discussing _Western Saddlebag_, a newly composed suite of arrangements of traditional cowboy melodies for piano
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+Text-sound performances
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+Instrument building
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 5 (instrumental building proposal) out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Instrument building (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 5 (instrumental building proposal) due
+
+Assignment 6 (SPEAR sounds) out; due 1 day later
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+Instrument building (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+In class performances with your instruments
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 7 (Audacity 1) out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+_Spring Break week – no classes_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+Musique Concrète
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 7 (Audacity 1) due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+Either/Or residency
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 8 (tabula rasa) out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+F3
+{{< tdclose >}}
+{{< tdopen >}}
+Forum with Keeril Makan
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C2
+{{< tdclose >}}
+{{< tdopen >}}
+[Either/Or concert: music of Keeril Makan](http://arts.mit.edu/experimental-music-eitheror-performs-work-of-keeril-makan/)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+Tabula rasa assignment
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Assignment 8 (tabula rasa) due
+
+Assignment 9 (Audacity 2) out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+Listen to and discuss tabula rasa compositions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+Listen to and discuss tabula rasa compositions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L18
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss Audacity 2 compositions; introduce final project
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 9 (Audacity 2) due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19
+{{< tdclose >}}
+{{< tdopen >}}
+Listen to and discuss Audacity 2 compositions
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 10 (Audacity 2 response) out; due 5 days later
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+No lecture; individual meetings on project
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 11 (final project draft) due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+F4
+{{< tdclose >}}
+{{< tdopen >}}
+Forum with Florian Hollerweger: "The Revolution is Hear! Sound Art, the Everyday, and Aural Awareness"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L21
+{{< tdclose >}}
+{{< tdopen >}}
+No lecture; individual meetings on project
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L22
+{{< tdclose >}}
+{{< tdopen >}}
+Final project presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L23
+{{< tdclose >}}
+{{< tdopen >}}
+Final project presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 11 (final project) due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C3
+{{< tdclose >}}
+{{< tdopen >}}
+Class attends [MIT CAST Sound Installations evening event](http://arts.mit.edu/resonating-mit-scanner-vitiello/)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L24
+{{< tdclose >}}
+{{< tdopen >}}
+Final project presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C4
+{{< tdclose >}}
+{{< tdopen >}}
+Either/Or concert
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
