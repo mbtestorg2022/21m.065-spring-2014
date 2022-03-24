@@ -87,9 +87,9 @@ Ablinger, Peter. _Voices and Piano_ (since 1998)
 *   Ablinger's song cycle for recorded voice and piano is extensively documented on the [composer's website](http://ablinger.mur.at/voices_and_piano.html) and elsewhere.
 *   Listen to [excerpt of "Bertolt Brecht" (m3u)](http://ablinger.mur.at/hiddenaudio/brecht.m3u) and other recordings by Hodges, Nicolas. From: _Voices and Piano_. Kairos, 2009., including "Mao Zedong."
 *   Readings:
-    *   Score of "Mao Zedong" ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Score of "Mao Zedong" (PDF)](http://ablinger.mur.at/scores/mao.pdf)
+    *   Score of "Mao Zedong" [Score of "Mao Zedong" (PDF)](http://ablinger.mur.at/scores/mao.pdf)
     *   [Setup and performance instructions (DOC)](http://ablinger.mur.at/scores/v+p_how-to.doc)
-    *   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Interview with the composer (PDF)](http://ablinger.mur.at/docs/v+p_ginsburgh.pdf)
+    *   [Interview with the composer (PDF)](http://ablinger.mur.at/docs/v+p_ginsburgh.pdf)
 
 Supplemental reading: class handout on the International Phonetic Alphabet (IPA) (similar to what's [posted in Wikipedia](http://en.wikipedia.org/wiki/International_Phonetic_Alphabet_chart_for_English_dialects)).
 
@@ -122,7 +122,7 @@ Dreyblatt, ﻿Arnold
 Fullman, Ellen
 
 *   Read: "[The Long String Instrument](https://www.superiorviaduct.com/products/ellen-fullman-the-long-string-instrument-lp)." _Musicworks_ 85 (Spring 2003).
-*   Read: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Long String Instrument technical requirements (PDF - 1.3MB)](http://www.ellenfullman.com/s/Fullman_solo_TechRiderFeet.pdf)
+*   Read: [Long String Instrument technical requirements (PDF - 1.3MB)](http://www.ellenfullman.com/s/Fullman_solo_TechRiderFeet.pdf)
 *   Watch video: "[Long String Instrument Terminal NY](http://vimeo.com/45210573)." Vimeo. Accessed August 19, 2014.
 
 Partch, Harry
