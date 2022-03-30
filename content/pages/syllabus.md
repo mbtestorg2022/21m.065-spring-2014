@@ -23,12 +23,12 @@ There is no prerequisite for the class. All musical backgrounds are welcomed, in
 
 This is **not** the class for you if you want to learn:
 
-*   How to read music (try [_21M.051 Fundamentals of Music_](/courses/21m-051-fundamentals-of-music-spring-2007/))
-*   About music theory (try [_21M.301 Harmony and Counterpoint I_](/courses/21m-301-harmony-and-counterpoint-i-spring-2005/))
+*   How to read music (try [_21M.051 Fundamentals of Music_](/courses/21m-051-fundamentals-of-music-spring-2007))
+*   About music theory (try [_21M.301 Harmony and Counterpoint I_](/courses/21m-301-harmony-and-counterpoint-i-spring-2005))
 *   How to read and write lead sheets (try _21M.340 Jazz Harmony and Arranging_)
-*   Western music literature (try [_21M.011 Introduction to Western Music_](/courses/21m-011-introduction-to-western-music-spring-2006/))
+*   Western music literature (try [_21M.011 Introduction to Western Music_](/courses/21m-011-introduction-to-western-music-spring-2006))
 *   Jazz (try _21M.026 Jazz_)
-*   World music (try [_21M.030 Introduction to World Music_](/courses/21m-030-introduction-to-world-music-spring-2013/))
+*   World music (try [_21M.030 Introduction to World Music_](/courses/21m-030-introduction-to-world-music-spring-2013))
 
 This is the class for you if you want to be creative with sound and performance. We will be experimenting with the fundaments of music making. Our inquiry will examine music from all time periods, as well as all cultures and regions. Nothing is assumed!
 

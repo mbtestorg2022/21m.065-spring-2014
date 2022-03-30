@@ -4,6 +4,7 @@ description: This is a resource file that contains information regarding final p
   writeup.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21m-065-introduction-to-musical-composition-spring-2014/572c723be1109743ff0ac01c6a9f3542_MIT21M_065S14_final_hchoi.pdf
 file_type: application/pdf
+parent_uid: 229bd1d2-f371-61f8-d193-31a304846016
 resourcetype: Document
 title: Final project writeup - 21M.065 Introduction to Musical Composition Spring
   2014

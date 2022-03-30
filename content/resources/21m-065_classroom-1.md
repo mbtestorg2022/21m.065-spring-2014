@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ccb935c1-1603-6852-319c-bd1588cd7136
 resourcetype: Image
 title: 21M-065_classroom-1.jpg
 uid: 0f832f94-2fc3-ee3c-4bb1-737583b5bf02
